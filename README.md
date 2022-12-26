@@ -11,4 +11,4 @@ Till now I know,
 1. HTML
 1. JavaScript (basics)
 1. CSS (basic)
-1. Node.js(basics)
+1. Node.js (basics)
